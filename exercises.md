@@ -19,7 +19,7 @@
 > _The Gathering Cloud:_ The tangents, especially, feel like their own piece within a piece and give even further depth to the work by providing context or commentary. The images further impact the words of the piece but may make them hard to read due to how the text is formatted.
 
 **How are the works read differently from print literature?**
-> _The Gathering Cloud:_ It's significantly more interactive. You can hcoose to hover over the words or not, and how animated it is also makes it different from print in how the images move.
+> _The Gathering Cloud:_ It's significantly more interactive. You can choose to hover over the words or not, and how animated it is also makes it different from print in how the images move.
 
 **How is electronic literature different from print literature?**
 > ...
