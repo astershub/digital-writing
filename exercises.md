@@ -11,7 +11,7 @@
 **How do these tools shape the way you write (e.g. constrain the way you write or facilitate your writing)?**
 > For simple word documents, there’s a lot more restriction in that they can only do so much formatting wise? And for programs like Twine and coding languages like CSS they’re much more intimidating to learn, and I’m still not an expert at either.
 
-## Week 2
+## Week 3
 **What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?**
 > ...
 
