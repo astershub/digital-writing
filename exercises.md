@@ -1,4 +1,4 @@
-## week 1
+## Week 1
 **What types of writing do you do (e.g. fiction, nonfiction, poetry)?**
 > Mostly nonfiction & poetry, some fiction as well (mostly collaborative work if fiction). I also have experience with screenwriting and scriptwriting
 
@@ -11,3 +11,18 @@
 **How do these tools shape the way you write (e.g. constrain the way you write or facilitate your writing)?**
 > For simple word documents, there’s a lot more restriction in that they can only do so much formatting wise? And for programs like Twine and coding languages like CSS they’re much more intimidating to learn, and I’m still not an expert at either.
 
+## Week 2
+**What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?**
+> ...
+
+**How are those elements meaningful?**
+> ...
+
+**How are the works read differently from print literature?**
+> ...
+
+**How is electronic literature different from print literature?**
+> ...
+
+**What are the qualities of the works we might consider as qualities of electronic literature?**
+> ...
