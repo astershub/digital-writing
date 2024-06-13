@@ -4,4 +4,4 @@
 
 ## Bitsy exercise
 [Link](https://github.com/astershub/digital-writing-bitsy)
-> Having heard of Bitsy before (due to game dev friends having tried it in previous projects) but never attempted it, I was beyond excited to finally try it, and was delighted at how fun yet surprisingly simple it was. It's still rather intimidating to navigate, don't get me wrong, and I definitely don't claim to be a visual artist in any shape or form, but I had plenty of fun 
+> Having heard of Bitsy before (due to game dev friends having tried it in previous projects) but never attempted it, I was beyond excited to finally try it, and was delighted at how fun yet surprisingly simple it was. It's still rather intimidating to navigate, don't get me wrong, and I definitely don't claim to be a visual artist in any shape or form, but I had plenty of fun trying Bitsy, and I'm excited to be more proficient in it in the future.
