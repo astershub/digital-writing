@@ -27,7 +27,18 @@
 > But there are ~~millions~~ millivolt I'd forget<br/>
 > Will have their ~~laugh~~ at passing me.<br/>
 
+> ...
+
+### Dadaist Poem remix
+[Link](https://github.com/astershub/dadaist-poem)
+> ...
+
+### N+7 remix
+[Link](https://github.com/astershub/n-7-remix)
+> ...
+
 ### Taroko Gorge(s)
+**Chosen remix: _Tokyo Garage_**
 **What aspects of the remix are the same?**
 > ...
 
