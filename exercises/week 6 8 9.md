@@ -1,3 +1,3 @@
-## Twine exercise
+## Twine exercises
 [Link](https://github.com/astershub/digital-writing-twine)
 > Having used Twine before (particularly last year, when I made a simplistic interactive fiction piece with multiple choices and endings for a game writing course), I'm quite familiar with its interface and its more simplistic style of coding. But this time, I want to push the envelope of my knowledge a little bit and go further than what I already know about the program. So I was excited to dabble into Twine again this year and refreshing my memory on more basic aspects of it before going further with its visual effects. I decided that I would challenge myself with text effects and putting Bitsy rooms into Twine, having been inspired by a friend's game jam work, to really ask myself how far I can go with this program.
