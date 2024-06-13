@@ -26,6 +26,7 @@
 > Behind some ~~seven~~ severe ~~years~~ yech or ~~three~~,<br/>
 > But there are ~~millions~~ millivolt I'd forget<br/>
 > Will have their ~~laugh~~ at passing me.<br/>
+
 This was a fun but mildly frustrating exercise to do. Being able to transform a text almost beyond recognition to see how its meaning might change is an interesting exercise, but doing N+7 manually was quite tedious--even more so when my table only had one dictionary between us, and we all chose different poems. In the end, we decided to turn to a dictionary website to do the exercise more quickly, and I'm not quite sure if that defeated the whole purpose of doing things manually vs electronically or not.
 
 ### Dadaist Poem remix
