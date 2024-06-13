@@ -1,1 +1,2 @@
 # Digital Writing Folio (2024)
+A writer most comfortable with creative non-fiction and poetry, Aster Pontillas (he/him) most frequently explores with identity in relation to culture and queerness, and many of his works are inspired by his own experiences growing up as a first-generation migrant and a transgender Asian man. But, he is also an avid gamer and has a deep appreciation for visual art, so lately he's been interested in digital writing and intertwining visual art with literature in the form of ekphrases.
