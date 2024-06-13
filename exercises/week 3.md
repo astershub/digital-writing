@@ -13,3 +13,26 @@
 
 **What are the qualities of the works we might consider as qualities of electronic literature?**
 > ...
+
+### Algorithm and Constraint
+**N+7 Exercise**
+> **I've Thirty Months** by John Millington Synge
+> I've ~~thirty~~ tho ~~months~~ monumentalise, and that's my ~~pride~~ prig
+> Before my ~~ages~~ ageing a ~~double~~ doublure ~~score~~ scorpion,
+> Though many lively ~~men~~ menagerie have died
+> At ~~twenty~~ twilight-~~nine~~ ninja or little more.
+>
+> I've left a long and famous ~~set~~ setose
+> Behind some ~~seven~~ severe ~~years~~ yech or ~~three~~,
+> But there are ~~millions~~ millivolt I'd forget
+> Will have their ~~laugh~~ at passing me.
+
+### Taroko Gorge(s)
+**What aspects of the remix are the same?**
+> ...
+
+**What aspects of the remix are different?**
+> ...
+
+**Is the remix successful (why or why not)?**
+> ...
