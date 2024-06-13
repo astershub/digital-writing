@@ -30,20 +30,22 @@
 This was a fun but mildly frustrating exercise to do. Being able to transform a text almost beyond recognition to see how its meaning might change is an interesting exercise, but doing N+7 manually was quite tedious--even more so when my table only had one dictionary between us, and we all chose different poems. In the end, we decided to turn to a dictionary website to do the exercise more quickly, and I'm not quite sure if that defeated the whole purpose of doing things manually vs electronically or not.
 
 ### Dadaist Poem remix
-[Link](https://github.com/astershub/dadaist-poem)
-> ...
+> [Link](https://github.com/astershub/dadaist-poem)
+
+Having never used Glitch before, I felt intimidated learning something new--code, as much as I like to claim I have experience with it, is still quite scary for me to dive into when it's about a program or language I've never tried before. But this proved to be easy enough to navigate and push onto Github, and it turned out to be rather fun to experiment with. I'm thinking I'll give it a go from time to time to see what I can come up with from different articles (or even my own writing).
 
 ### N+7 remix
-[Link](https://github.com/astershub/n-7-remix)
-> ...
+> [Link](https://github.com/astershub/n-7-remix)
+
+The mechanics of the N+7 remix functioned relatively similar to the Dadaist poem, even though the writing techniques themselves were different. I also had fun experimenting with this one.
 
 ### Taroko Gorge(s)
 **Chosen remix: _Tokyo Garage_**
 **What aspects of the remix are the same?**
-> ...
+> Tokyo Garage still generates and randomly pairs certain words the same way Tarako Gorge does, scrolling infinitely once it reaches the bottom of the page and removing the text from the top to make way for new lines.
 
 **What aspects of the remix are different?**
-> ...
+> The colours are different to reflect the subject of Tokyo Garage. Taroko Gorge had earthier colours to reflect the nature it decribes in the piece, while Tokyo Garage has is neon yellow on a black background to depict the nightlife it portrays. The words are different, with talks of Godzilla and Roppongi and racers and police and prostitutes, to reflect the change in topic. While Taroko Gorge aims for a more peaceful experience where the reader is surrounded by nature, Tokyo Garage aims for a more chaotic atmosphere, focusing on the rowdy futuristic nightlife of Japan that's often romanticised.
 
 **Is the remix successful (why or why not)?**
-> ...
+> Tokyo Garage takes something as simple as a change in topic and completely turns the work on its head by reflecting that change in almost every single part of the work except for its main mechanics. The title of it being so similar to Taroko Gorge is clever as well. I think this remix did well in showcasing the simplicity that Taroko Gorge had, because you could take its mechanics to talk about almost anything.
