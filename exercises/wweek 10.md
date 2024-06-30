@@ -1,3 +1,3 @@
 ## Website exercise
-Link
-> ...
+[Link](https://astershub.github.io)
+> While I have some familiarity with HTML, CSS has always intimidated me. It just seemed so much more complicated, with jargon I couldn't even begin to comprehend, so building a website from scratch and having to use CSS was a bit of a daunting task. It still scares me, I have to admit, which is why I mostly fiddled with HTML for this exercise. But I came out of it realising that CSS was simpler than I thought it was in my head, and the way it interacts with HTML through div tags was pretty straightforward. That being said, it took me a few tries to get things right, but I think I'll soon be able to overcome that initial hurdle with CSS and start using it more in the future to create a more polished portfolio.
