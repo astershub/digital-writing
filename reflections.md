@@ -1,3 +1,22 @@
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
 ## A reflection on _en plein air._
 
 First and foremost, I decided to work on the Bitsy rooms, as I knew they’d give me the most struggle. I was not very confident in my abilities as a visual artist, but I bought Procreate and a pixel brush set with patterns, which made drawing significantly easier.
