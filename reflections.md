@@ -2,19 +2,9 @@
 
 First and foremost, I decided to work on the Bitsy rooms, as I knew they’d give me the most struggle. I was not very confident in my abilities as a visual artist, but I bought Procreate and a pixel brush set with patterns, which made drawing significantly easier.
 Although at first, I used multiple colours for both the room and the sprites, forgetting about the three-colour limit Bitsy has.
-
- <div class="row">
-  <div class="column">
     <img src="painter_initial.png" alt="initial painter" style="width:70%">
-  </div>
-  <div class="column">
     <img src="dull_initial.png" alt="initial dull room" style="width:70%">
-  </div>
-  <div class="column">
     <img src="restorator_initial.png" alt="initial restorator" style="width:70%">
-  </div>
-</div> 
-
 
 After quickly realising that my art would not translate well into Bitsy, I limited myself to their colour palette limit and made the current Bitsy rooms with Procreate. This would prove to be the first hurdle of my project: a big focus in my narrative is on colour, and having such a tight limit on colour in an otherwise more visual program used in the semester I feel lessened the impact it would have on the narrative.
 I would then use Pixsy to translate the newly created rooms into Bitsy, and attempt to use Tilesy as a backup, but Pixsy ended up working better for me. I ended up only making three rooms due to time constraints, but it would work out well in the end to show a straightforward growth of the vibrancy of the piece (dull → neutral → bright).
