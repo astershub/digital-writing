@@ -2,7 +2,7 @@
 
 First and foremost, I decided to work on the Bitsy rooms, as I knew they’d give me the most struggle. I was not very confident in my abilities as a visual artist, but I bought Procreate and a pixel brush set with patterns, which made drawing significantly easier.
 Although at first, I used multiple colours for both the room and the sprites, forgetting about the three-colour limit Bitsy has.
-    <img src="/images/painter_initial.png" alt="initial painter" style="width:70%">
+    <img src="tree/main/images/painter_initial.png" alt="initial painter" style="width:70%">
     <img src="/images/dull_initial.png" alt="initial dull room" style="width:70%">
     <img src="/images/restorator_initial.png" alt="initial restorator" style="width:70%">
 
